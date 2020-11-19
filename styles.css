@@ -1,0 +1,32 @@
+/* RESET STYLES */
+* {
+box-sizing: border-box;
+margin: 0;
+padding: 0;
+}
+
+/* MOBILE DEVICES */
+body {
+     font-family: 'Kumbh Sans', sans-serif;
+     font-weight: 400;
+     color: hsl(229, 23%, 23%);
+     text-align: center;
+ }
+ h1, h2, h3 {
+     font-size: 18px;
+ }
+
+ /* PHOTO */
+ .bio-photo {
+     border-radius: 50%;
+ }
+
+/* BIOGRAPHY */
+.bio-age {
+    font-weight: 400;
+    color: hsl(0, 0%, 59%);
+}
+.bio-location {
+    font-size: 14px;
+    color: hsl(0, 0%, 59%);
+}
